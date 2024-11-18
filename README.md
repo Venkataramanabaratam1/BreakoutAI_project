@@ -27,7 +27,7 @@ This application is built using **Streamlit**, a Python-based open-source framew
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/venkataramanabaratam1/BreakoutAI_project.git
+   git clone https://github.com/Venkataramanabaratam1/BreakoutAI_project.git
    cd BreakoutAI_project.git
    ```
 2. Install dependencies:
