@@ -2,12 +2,12 @@
 
 A **Streamlit-based** custom email sender application using the OpenAI API for content generation and Mailjet API for email delivery. 
 
-## Framework Used
+## Framework Used:
 
 This application is built using **Streamlit**, a Python-based open-source framework for creating interactive web applications. Streamlit enables rapid prototyping and seamless integration of APIs, making it ideal for building data-driven dashboards and applications with minimal code.
 
 
-## Features
+## Features:
 
 - **Dynamic Email Content**: Generate personalized email content using OpenAI GPT.
 - **ESP Integration**: Use Mailjet for sending, scheduling, and tracking emails.
@@ -15,7 +15,7 @@ This application is built using **Streamlit**, a Python-based open-source framew
 - **Real-Time Dashboard**: Track email sending status, delivery, and analytics.
 
 
-## Prerequisites
+## Prerequisites:
 
 - **Python 3.9+**
 - API keys for:
@@ -23,7 +23,7 @@ This application is built using **Streamlit**, a Python-based open-source framew
   - [Mailjet](https://www.mailjet.com/)
 
 
-## Installation
+## Installation:
 
 1. Clone the repository:
    ```bash
@@ -35,7 +35,7 @@ This application is built using **Streamlit**, a Python-based open-source framew
      pip install -r requirements.txt
       ```
 
-## Usage
+## Usage:
 
 1. Run the streamlit application:
    ```bash
@@ -51,7 +51,7 @@ This application is built using **Streamlit**, a Python-based open-source framew
 6. Preview and send emails or schedule them.
 
 
-## Output
+## Output:
 1. Initialization by giving details
 ![Screenshot 2024-11-16 233044](https://github.com/user-attachments/assets/3e05a569-b2ca-4d6a-8847-8774714b6718)
 
