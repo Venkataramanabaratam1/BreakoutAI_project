@@ -10,7 +10,7 @@ import json
 import uuid
 import os
 import pyperclip  # To copy content to clipboard
-from track import open_emails
+from track import opened_emails
 
 # Sidebar: Page Navigation
 st.title("Custom Email Sender Application")
